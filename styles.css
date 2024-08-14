@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.gallery{
+    margin: 70px;
+    padding: 10px;
+}
+
+.images{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.img{
+    padding: 10px;
+}
+
+.content{
+    margin: 50px;
+    padding: 10px;
+    background-color: gray;
+}
+
+.section{
+    margin: 20px;
+    background-image: url("img1.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    padding: 20px;
+}

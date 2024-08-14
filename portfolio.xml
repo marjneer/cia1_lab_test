@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="portfolio.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="portfolio.xsl" type="text/xsl"?>
+<list>
+<project>
+    <title>Python project</title>
+    <description>Creating modules, lists, dictionaries. Used numpy library Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus totam accusantium tempora laboriosam rem quam culpa repellat. Temporibus tempora vel libero quisquam minima ipsam, error quo quasi nemo ipsa laudantium? </description>
+    <tech>Python</tech>
+    <period>1 year</period>
+</project>
+<project>
+    <title>Web Stack project</title>
+    <description>Creatig websites VLorem ipsum dolor sit amet consectetur adipisicing elit. Possimus totam accusantium tempora laboriosam rem quam culpa repellat. Temporibus tempora vel libero quisquam minima ipsam, error quo quasi nemo ipsa laudantium?           </description>
+    <tech>HTML, CSS, Javascript</tech>
+    <period>2 year</period>
+</project>
+
+<project>
+    <title>Research project on Cancer detection</title>
+    <description>Review papers Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus totam accusantium tempora laboriosam rem quam culpa repellat. Temporibus tempora vel libero quisquam minima ipsam, error quo quasi nemo ipsa laudantium?           </description>
+    <tech>LateX, Python</tech>
+    <period>3 year</period>
+</project>
+
+<project>
+    <title>Research project on Heart attack detection</title>
+    <description>Review papers Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus totam accusantium tempora laboriosam rem quam culpa repellat. Temporibus tempora vel libero quisquam minima ipsam, error quo quasi nemo ipsa laudantium?           </description>
+    <tech>LateX, C++</tech>
+    <period>1 year</period>
+</project>
+
+
+</list>
